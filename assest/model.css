@@ -1,0 +1,112 @@
+body{
+	background-color:#FFF0AC	;
+}
+.title{
+	text-align:center;
+	font-family:標楷體;
+}
+.aa{
+	background-color:#FFD306;
+	margin-top:25px;
+	margin-left:100px;
+	margin-right:100px;
+	border-radius: 1cm;	
+    font-family:標楷體;
+}
+.pic{
+	margin-top:10px;
+	margin-left:100px;	
+    margin-bottom:20px;
+    border-radius: 1cm;	
+}
+.content{
+    margin-top:-20px;
+    margin-left:115px;
+    font-size:30px;
+    font-family: 標楷體;
+}
+.bb{
+    position: absolute;
+    left: 500px;
+    top: 110px;
+    bottom: 50px;
+    font-size: 20px;
+    font-family: 標楷體;
+}
+.cc{
+    position: absolute;
+    top: 170px;
+    left: 1000px;
+    right:100px;
+ 
+}
+.dd{
+    background-color:#FFC78E;
+	margin-top:25px;
+	margin-left:100px;
+	margin-right:100px;
+	border-radius: 1cm;	
+    font-family:標楷體;
+}
+.ee{
+    margin-top:-10px;
+	margin-left:200px;	
+    margin-bottom:20px;
+    font-size: 30px;
+    font-family:標楷體;
+
+}
+.ff{    
+    position: absolute;
+    left: 900px;
+    top: 415px;
+    bottom: 50px;
+    font-size: 30px;
+    font-family: 標楷體;
+}
+.hh{
+    position: absolute;
+    left: 500px;
+    top: 710px;
+    bottom: 50px;
+    font-size: 25px;
+    font-family: 標楷體;
+}
+.gg{
+    position: absolute;
+    left: 500px;
+    top: 1000px;
+    bottom: 50px;
+    font-size: 25px;
+    font-family: 標楷體;
+}
+.pict{
+    position: relative;
+    border-radius: 1cm;	
+    top:-20px;
+	left:50px;	
+    
+}
+.pict2{
+    position: relative;
+    border-radius: 1cm;	
+    top:-10px;
+	left:50px;	 
+    bottom: 20px;  
+}
+.ii{
+    position:absolute;
+    left: 500px;
+    top: 1320px;
+    font-size: 25px;
+    font-family: 標楷體;
+}
+.jj{
+    position:absolute;
+    left: 500px;
+    top: 1660px;
+    
+    font-size: 25px;
+    font-family: 標楷體;
+}
+
