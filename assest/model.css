@@ -26,7 +26,11 @@ body{
 	margin-left:100px;	
     margin-bottom:20px;
     border-radius: 1cm;	
+    border-style: double;
+    border-width: 0.5cm;
+   
 }
+
 .content{
     margin-top:-20px;
     margin-left:115px;
@@ -47,6 +51,7 @@ body{
     top: 250px;
     left: 1000px;
     right:100px;
+
  
 }
 .dd1{
@@ -123,7 +128,7 @@ body{
     font-family: 標楷體;
 }
 .dd2{
-    background-color:#FFC78E;
+    background-color:#FFD306;
 	margin-top:25px;
 	margin-left:100px;
 	margin-right:100px;
@@ -134,7 +139,7 @@ body{
     border-width: 10px;
 }
 .dd3{
-    background-color:#FFC78E;
+    background-color:#FFB5B5	;
 	margin-top:30px;
 	margin-left:100px;
 	margin-right:100px;
@@ -151,11 +156,16 @@ body{
 	margin-left:50px;	
     margin-bottom:20px;
     border-radius: 1cm;	
+    border-style: inset;
+    border-color:cadetblue;
+    border-width: 1cm;
 }
 .home{
     position: relative;
     left: 1000px;
     padding-bottom: 10px;
+    border-radius: 1cm;
+   
 }
 .right{
     text-align: center;
@@ -169,4 +179,83 @@ body{
     top:2650px;
     font-size: 25px;
     font-family: 標楷體;
+}
+.ll{
+    position: absolute;
+    top: 3230px;
+    left: 550px;
+    bottom: 50px;
+    font-size: 25px;
+    font-family: 標楷體;
+}
+.mm{
+    position: absolute;
+    left: 500px;
+    top: 3550px;
+    left: 200px;
+    bottom: 50px;
+    font-size: 25px;
+    font-family:標楷體;
+}
+.ss{
+    position: absolute;
+    left: 1500px;
+    top: 3830px;
+    left: 550px;
+    bottom: 50px;
+    font-size: 25px;
+    font-family:標楷體;
+}
+.pp{
+    position: absolute;
+    left: 500px;
+    top: 4190px;
+    left: 200px;
+    bottom: 50px;
+    font-size: 25px;
+    font-family:標楷體;
+}
+.rr{
+    position: absolute;
+    top: 4530px;
+    left: 770px;
+    bottom: 50px;
+    font-size: 25px;
+    font-family: 標楷體;
+}
+.box{
+   
+    overflow: hidden;
+
+}
+.pir{
+	margin-top:10px;
+	margin-left:50px;	
+    margin-bottom:20px;
+    border-radius: 1cm;	
+    border-style: ridge;
+    border-color:red;
+    border-width: 1cm;
+}
+.pi2{
+	margin-top:10px;
+	margin-left:50px;	
+    margin-bottom:20px;
+    border-radius: 1cm;	
+    border-style: outset;
+    border-color:coral;
+    border-width: 1cm;
+}
+.dd4{
+    background-color:#FF9D6F	;
+	margin-top:30px;
+	margin-left:100px;
+	margin-right:100px;
+    margin-bottom: 40px;
+	border-radius: 1cm;	
+    font-family:標楷體;
+    padding-bottom: 20px;
+    border-style: outset;
+    border-color: #FFD306		;
+    border-width: 10px;
 }
