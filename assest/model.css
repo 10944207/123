@@ -109,20 +109,21 @@ body{
     position: relative;
     border-radius: 1cm;	
     top:-10px;
-	left:950px;	 
-    bottom: 20px;  
+	left:850px;	 
+    bottom: 20px; 
+     
 }
 .ii{
     position:absolute;
     left: 200px;
-    top: 1950px;
+    top: 2130px;
     font-size: 25px;
     font-family: 標楷體;
 }
 .jj{
     position:absolute;
-    left: 500px;
-    top: 2300px;
+    left: 600px;
+    top: 2550px;
     
     font-size: 25px;
     font-family: 標楷體;
@@ -176,13 +177,13 @@ body{
 .kk{
     position:absolute;
     left: 200px;
-    top:2650px;
+    top:2980px;
     font-size: 25px;
     font-family: 標楷體;
 }
 .ll{
     position: absolute;
-    top: 3230px;
+    top: 3630px;
     left: 550px;
     bottom: 50px;
     font-size: 25px;
@@ -191,7 +192,7 @@ body{
 .mm{
     position: absolute;
     left: 500px;
-    top: 3550px;
+    top: 3990px;
     left: 200px;
     bottom: 50px;
     font-size: 25px;
@@ -200,7 +201,7 @@ body{
 .ss{
     position: absolute;
     left: 1500px;
-    top: 3830px;
+    top: 4330px;
     left: 550px;
     bottom: 50px;
     font-size: 25px;
@@ -209,7 +210,7 @@ body{
 .pp{
     position: absolute;
     left: 500px;
-    top: 4190px;
+    top: 4690px;
     left: 200px;
     bottom: 50px;
     font-size: 25px;
@@ -217,16 +218,11 @@ body{
 }
 .rr{
     position: absolute;
-    top: 4530px;
-    left: 770px;
+    top: 5050px;
+    left: 780px;
     bottom: 50px;
     font-size: 25px;
     font-family: 標楷體;
-}
-.box{
-   
-    overflow: hidden;
-
 }
 .pir{
 	margin-top:10px;
