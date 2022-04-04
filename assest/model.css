@@ -7,7 +7,6 @@ body{
     font-weight: bolder;
     font-size: 30px;
     padding-top: 20px;
-    
 }
 .aa{
 	background-color:#FFD306;
@@ -30,7 +29,6 @@ body{
     border-width: 0.5cm;
    
 }
-
 .content{
     margin-top:-20px;
     margin-left:125px;
@@ -40,7 +38,7 @@ body{
 .bb{
     position: absolute;
     left: 500px;
-    top: 180px;
+    top: 240px;
     bottom: 50px;
     font-size: 25px;
    
@@ -72,20 +70,12 @@ body{
     margin-bottom:20px;
     font-size: 30px;
     font-family:標楷體;
+}
 
-}
-.ff{    
-    position: absolute;
-    left: 900px;
-    top: 620px;
-    bottom: 50px;
-    font-size: 30px;
-    font-family: 標楷體;
-}
 .hh{
     position: absolute;
     left: 500px;
-    top: 1150px;
+    top: 1550px;
     bottom: 50px;
     font-size: 25px;
     font-family: 標楷體;
@@ -93,7 +83,7 @@ body{
 .gg{
     position: absolute;
     left: 600px;
-    top: 1670px;
+    top: 2070px;
     bottom: 50px;
     font-size: 25px;
     font-family: 標楷體;
@@ -116,15 +106,14 @@ body{
 .ii{
     position:absolute;
     left: 200px;
-    top: 2130px;
+    top: 2530px;
     font-size: 25px;
     font-family: 標楷體;
 }
 .jj{
     position:absolute;
     left: 600px;
-    top: 2550px;
-    
+    top: 2950px;
     font-size: 25px;
     font-family: 標楷體;
 }
@@ -177,13 +166,13 @@ body{
 .kk{
     position:absolute;
     left: 200px;
-    top:2980px;
+    top:3380px;
     font-size: 25px;
     font-family: 標楷體;
 }
 .ll{
     position: absolute;
-    top: 3630px;
+    top: 4030px;
     left: 550px;
     bottom: 50px;
     font-size: 25px;
@@ -192,7 +181,7 @@ body{
 .mm{
     position: absolute;
     left: 500px;
-    top: 3990px;
+    top: 4390px;
     left: 200px;
     bottom: 50px;
     font-size: 25px;
@@ -201,7 +190,7 @@ body{
 .ss{
     position: absolute;
     left: 1500px;
-    top: 4330px;
+    top: 4750px;
     left: 550px;
     bottom: 50px;
     font-size: 25px;
@@ -210,7 +199,7 @@ body{
 .pp{
     position: absolute;
     left: 500px;
-    top: 4690px;
+    top: 5100px;
     left: 200px;
     bottom: 50px;
     font-size: 25px;
@@ -218,7 +207,7 @@ body{
 }
 .rr{
     position: absolute;
-    top: 5050px;
+    top: 5480px;
     left: 780px;
     bottom: 50px;
     font-size: 25px;
@@ -255,3 +244,121 @@ body{
     border-color: #FFD306		;
     border-width: 10px;
 }
+a:link{
+    color:#FF9D6F;
+}
+a:visited{
+    color:#467500;
+}
+a:hover{
+    cursor: pointer;   
+}
+a:active{
+    color: red;
+}
+@keyframes bar1{
+    from{
+        width: 0%;
+    }
+    to{
+        width:90%;
+    }
+}
+@keyframes bar2{
+    from{
+        width: 0%;
+    }
+    to{
+        width:80%;
+    }
+}
+@keyframes bar3{
+    from{
+        width: 0%;
+    }
+    to{
+        width:70%;
+    }
+}
+@keyframes bar4{
+    from{
+        width: 0%;
+    }
+    to{
+        width:50%;
+    }
+}
+@keyframes bar5{
+    from{
+        width: 0%;
+    }
+    to{
+        width:40%;
+    }
+}
+@keyframes bar6{
+    from{
+        width: 0%;
+    }
+    to{
+        width:95%;
+    }
+}
+
+.Java{
+    animation: bar1 5s ease;
+    width: 90% ;
+    background-color: #467500;
+    border-radius: 1cm;
+    text-align: center;
+    animation-iteration-count:100;
+}
+.HTML{
+    animation: bar1 5s ease;
+    width: 80% ;
+    background-color: #467500;
+    border-radius: 1cm;
+    text-align: center;
+    animation-iteration-count:100;
+}
+.CSS{
+    animation: bar1 5s ease;
+    width: 70% ;
+    background-color: #467500;
+    border-radius: 1cm;
+    text-align: center;
+    animation-iteration-count:100;
+}
+.Net{
+    animation: bar1 5s ease;
+    width: 50% ;
+    background-color: #467500;
+    border-radius: 1cm;
+    text-align: center;
+    animation-iteration-count:100;
+}
+.Kotlin{
+    animation: bar1 5s ease-out;
+    width: 40% ;
+    background-color: #467500;
+    border-radius: 1cm;
+    text-align: center;
+    animation-iteration-count:100;
+}
+marquee{
+    font-size: 40px;
+    font-family: 標楷體;
+    font-weight: bolder;
+}
+.cor{
+    animation: bar1 5s ease;
+    width: 95% ;
+    background-color: #467500;
+    border-radius: 1cm;
+    text-align: center;
+    animation-iteration-count:100;
+}
+
+
+
+
