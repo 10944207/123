@@ -71,11 +71,18 @@ body{
     font-size: 30px;
     font-family:標楷體;
 }
+.ff{
+    margin-top:-10px;
+	margin-left:200px;	
+    margin-bottom:20px;
+    font-size: 30px;
+    font-family:標楷體;
+}
 
 .hh{
     position: absolute;
     left: 500px;
-    top: 1550px;
+    top: 2150px;
     bottom: 50px;
     font-size: 25px;
     font-family: 標楷體;
@@ -83,7 +90,7 @@ body{
 .gg{
     position: absolute;
     left: 600px;
-    top: 2070px;
+    top: 2670px;
     bottom: 50px;
     font-size: 25px;
     font-family: 標楷體;
@@ -106,14 +113,14 @@ body{
 .ii{
     position:absolute;
     left: 200px;
-    top: 2530px;
+    top: 3130px;
     font-size: 25px;
     font-family: 標楷體;
 }
 .jj{
     position:absolute;
     left: 600px;
-    top: 2950px;
+    top: 3550px;
     font-size: 25px;
     font-family: 標楷體;
 }
@@ -166,13 +173,13 @@ body{
 .kk{
     position:absolute;
     left: 200px;
-    top:3380px;
+    top:3980px;
     font-size: 25px;
     font-family: 標楷體;
 }
 .ll{
     position: absolute;
-    top: 4030px;
+    top: 4630px;
     left: 550px;
     bottom: 50px;
     font-size: 25px;
@@ -181,7 +188,7 @@ body{
 .mm{
     position: absolute;
     left: 500px;
-    top: 4390px;
+    top: 4990px;
     left: 200px;
     bottom: 50px;
     font-size: 25px;
@@ -190,7 +197,7 @@ body{
 .ss{
     position: absolute;
     left: 1500px;
-    top: 4750px;
+    top: 5350px;
     left: 550px;
     bottom: 50px;
     font-size: 25px;
@@ -199,7 +206,7 @@ body{
 .pp{
     position: absolute;
     left: 500px;
-    top: 5100px;
+    top: 5700px;
     left: 200px;
     bottom: 50px;
     font-size: 25px;
@@ -207,7 +214,7 @@ body{
 }
 .rr{
     position: absolute;
-    top: 5480px;
+    top: 6100px;
     left: 780px;
     bottom: 50px;
     font-size: 25px;
@@ -311,7 +318,8 @@ a:active{
     background-color: #467500;
     border-radius: 1cm;
     text-align: center;
-    animation-iteration-count:100;
+    animation-iteration-count:5;
+    
 }
 .HTML{
     animation: bar1 5s ease;
@@ -319,7 +327,8 @@ a:active{
     background-color: #467500;
     border-radius: 1cm;
     text-align: center;
-    animation-iteration-count:100;
+    animation-iteration-count:5;
+    
 }
 .CSS{
     animation: bar1 5s ease;
@@ -327,7 +336,8 @@ a:active{
     background-color: #467500;
     border-radius: 1cm;
     text-align: center;
-    animation-iteration-count:100;
+    animation-iteration-count:5;
+   
 }
 .Net{
     animation: bar1 5s ease;
@@ -335,7 +345,8 @@ a:active{
     background-color: #467500;
     border-radius: 1cm;
     text-align: center;
-    animation-iteration-count:100;
+    animation-iteration-count:5;
+   
 }
 .Kotlin{
     animation: bar1 5s ease-out;
@@ -343,7 +354,8 @@ a:active{
     background-color: #467500;
     border-radius: 1cm;
     text-align: center;
-    animation-iteration-count:100;
+    animation-iteration-count:5;
+    
 }
 marquee{
     font-size: 40px;
@@ -356,7 +368,7 @@ marquee{
     background-color: #467500;
     border-radius: 1cm;
     text-align: center;
-    animation-iteration-count:100;
+    animation-iteration-count:5;
 }
 
 
