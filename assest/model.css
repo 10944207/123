@@ -1,19 +1,19 @@
 body{
-	background-color:#FFF0AC	;
+    background-color:#FFF0AC    ;
 }
 .title{
-	text-align:center;
-	font-family:標楷體;
+    text-align:center;
+    font-family:標楷體;
     font-weight: bolder;
     font-size: 30px;
     padding-top: 20px;
 }
 .aa{
-	background-color:#FFD306;
-	margin-top:25px;
-	margin-left:100px;
-	margin-right:100px;
-	border-radius: 1cm;	
+    background:linear-gradient(to top left,orange,yellow);
+    margin-top:25px;
+    margin-left:100px;
+    margin-right:100px;
+    border-radius: 1cm; 
     font-family:標楷體;
     padding-bottom: 20px;
     border-style: double;
@@ -21,13 +21,12 @@ body{
     border-width: 10px;
 }
 .pic{
-	margin-top:20px;
-	margin-left:100px;	
+    margin-top:20px;
+    margin-left:100px;  
     margin-bottom:20px;
-    border-radius: 1cm;	
+    border-radius: 1cm; 
     border-style: double;
-    border-width: 0.5cm;
-   
+    border-width: 0.5cm; 
 }
 .content{
     margin-top:-20px;
@@ -40,49 +39,47 @@ body{
     left: 500px;
     top: 240px;
     bottom: 50px;
-    font-size: 25px;
-   
+    font-size: 25px; 
     font-family: 標楷體;
 }
 .cc{
     position: absolute;
-    top: 250px;
+    top: 320px;
     left: 1020px;
     right:100px;
 
  
 }
 .dd1{
-    background-color:#FFC78E;
-	margin-top:25px;
-	margin-left:100px;
-	margin-right:100px;
-	border-radius: 1cm;	
+    background:linear-gradient(to top right,#FFDD55,	#F75000);
+    margin-top:25px;
+    margin-left:100px;
+    margin-right:100px;
+    border-radius: 1cm; 
     padding-bottom: 20px;
     font-family:標楷體;
     border-style:ridge;
-    border-color: #977C00	;
+    border-color: #977C00   ;
     border-width: 10px;
 }
 .ee{
     margin-top:-10px;
-	margin-left:200px;	
+    margin-left:200px;  
     margin-bottom:20px;
     font-size: 30px;
     font-family:標楷體;
 }
 .ff{
     margin-top:-10px;
-	margin-left:200px;	
+    margin-left:200px;  
     margin-bottom:20px;
     font-size: 30px;
     font-family:標楷體;
 }
-
 .hh{
     position: absolute;
     left: 500px;
-    top: 2150px;
+    top: 2550px;
     bottom: 50px;
     font-size: 25px;
     font-family: 標楷體;
@@ -90,69 +87,67 @@ body{
 .gg{
     position: absolute;
     left: 600px;
-    top: 2670px;
+    top: 3070px;
     bottom: 50px;
     font-size: 25px;
     font-family: 標楷體;
 }
 .pict{
     position: relative;
-    border-radius: 1cm;	
+    border-radius: 1cm; 
     top:-20px;
-	left:50px;	
-    
+    left:50px;     
 }
 .pict2{
     position: relative;
-    border-radius: 1cm;	
+    border-radius: 1cm; 
     top:-10px;
-	left:850px;	 
-    bottom: 20px; 
-     
+    left:850px;  
+    bottom: 20px;   
 }
 .ii{
     position:absolute;
     left: 200px;
-    top: 3130px;
+    top: 3530px;
     font-size: 25px;
     font-family: 標楷體;
 }
 .jj{
     position:absolute;
     left: 600px;
-    top: 3550px;
+    top: 3950px;
     font-size: 25px;
     font-family: 標楷體;
 }
 .dd2{
-    background-color:#FFD306;
-	margin-top:25px;
-	margin-left:100px;
-	margin-right:100px;
-	border-radius: 1cm;	
+    background:linear-gradient(to left top,#EAC100,#FF7575);
+    margin-top:25px;
+    margin-left:100px;
+    margin-right:100px;
+    border-radius: 1cm; 
     font-family:標楷體;
     border-style: groove;
     border-color: #467500;
     border-width: 10px;
 }
 .dd3{
-    background-color:#FFB5B5	;
-	margin-top:30px;
-	margin-left:100px;
-	margin-right:100px;
+    background:linear-gradient(to left bottom,#977C00,#FFED97) ;
+    margin-top:30px;
+    margin-left:100px;
+    margin-right:100px;
     margin-bottom: 40px;
-	border-radius: 1cm;	
+    border-radius: 1cm; 
     font-family:標楷體;
     padding-bottom: 20px;
     border-style: outset;
-    border-color: #FFD306		;
+    border-color: #FFD306       ;
     border-width: 10px;
 }
 .pi{
-	margin-top:10px;
-	margin-left:50px;	
+    margin-top:10px;
+    margin-left:50px;   
     margin-bottom:20px;
-    border-radius: 1cm;	
+    border-radius: 1cm; 
     border-style: inset;
     border-color:cadetblue;
     border-width: 1cm;
@@ -161,8 +156,7 @@ body{
     position: relative;
     left: 1000px;
     padding-bottom: 10px;
-    border-radius: 1cm;
-   
+    border-radius: 1cm; 
 }
 .right{
     text-align: center;
@@ -173,13 +167,13 @@ body{
 .kk{
     position:absolute;
     left: 200px;
-    top:3980px;
+    top:4380px;
     font-size: 25px;
     font-family: 標楷體;
 }
 .ll{
     position: absolute;
-    top: 4630px;
+    top: 5030px;
     left: 550px;
     bottom: 50px;
     font-size: 25px;
@@ -188,7 +182,7 @@ body{
 .mm{
     position: absolute;
     left: 500px;
-    top: 4990px;
+    top: 5390px;
     left: 200px;
     bottom: 50px;
     font-size: 25px;
@@ -197,7 +191,7 @@ body{
 .ss{
     position: absolute;
     left: 1500px;
-    top: 5350px;
+    top: 5750px;
     left: 550px;
     bottom: 50px;
     font-size: 25px;
@@ -206,7 +200,7 @@ body{
 .pp{
     position: absolute;
     left: 500px;
-    top: 5700px;
+    top: 6100px;
     left: 200px;
     bottom: 50px;
     font-size: 25px;
@@ -214,41 +208,41 @@ body{
 }
 .rr{
     position: absolute;
-    top: 6100px;
+    top: 6500px;
     left: 780px;
     bottom: 50px;
     font-size: 25px;
     font-family: 標楷體;
 }
 .pir{
-	margin-top:10px;
-	margin-left:50px;	
+    margin-top:10px;
+    margin-left:50px;   
     margin-bottom:20px;
-    border-radius: 1cm;	
+    border-radius: 1cm; 
     border-style: ridge;
     border-color:red;
     border-width: 1cm;
 }
 .pi2{
-	margin-top:10px;
-	margin-left:50px;	
+    margin-top:10px;
+    margin-left:50px;   
     margin-bottom:20px;
-    border-radius: 1cm;	
+    border-radius: 1cm; 
     border-style: outset;
     border-color:coral;
     border-width: 1cm;
 }
 .dd4{
-    background-color:#FF9D6F	;
-	margin-top:30px;
-	margin-left:100px;
-	margin-right:100px;
+    background:linear-gradient(to right top,#D9B300,#AD5A5A)   ;
+    margin-top:30px;
+    margin-left:100px;
+    margin-right:100px;
     margin-bottom: 40px;
-	border-radius: 1cm;	
+    border-radius: 1cm; 
     font-family:標楷體;
     padding-bottom: 20px;
     border-style: outset;
-    border-color: #FFD306		;
+    border-color: #B766AD      ;
     border-width: 10px;
 }
 a:link{
@@ -311,15 +305,16 @@ a:active{
         width:95%;
     }
 }
-
 .Java{
     animation: bar1 5s ease;
     width: 90% ;
     background-color: #467500;
     border-radius: 1cm;
     text-align: center;
-    animation-iteration-count:5;
-    
+    animation-iteration-count:5;  
+    border-style: double;
+    border-width: 0.3cm;
+    border-color:#EAC100;
 }
 .HTML{
     animation: bar1 5s ease;
@@ -327,8 +322,10 @@ a:active{
     background-color: #467500;
     border-radius: 1cm;
     text-align: center;
-    animation-iteration-count:5;
-    
+    animation-iteration-count:5; 
+    border-style: inset;
+    border-width: 0.5cm;
+    border-color: #EAC100;
 }
 .CSS{
     animation: bar1 5s ease;
@@ -337,7 +334,9 @@ a:active{
     border-radius: 1cm;
     text-align: center;
     animation-iteration-count:5;
-   
+    border-style: groove;
+    border-width: 0.5cm;
+    border-color:#FFD306;
 }
 .Net{
     animation: bar1 5s ease;
@@ -346,7 +345,9 @@ a:active{
     border-radius: 1cm;
     text-align: center;
     animation-iteration-count:5;
-   
+    border-style: outset;
+    border-color: chocolate;
+    border-width: 0.5cm;
 }
 .Kotlin{
     animation: bar1 5s ease-out;
@@ -355,7 +356,9 @@ a:active{
     border-radius: 1cm;
     text-align: center;
     animation-iteration-count:5;
-    
+    border-style: ridge;
+    border-width: 0.5cm;
+    border-color: #FF9D6F;
 }
 marquee{
     font-size: 40px;
@@ -369,8 +372,52 @@ marquee{
     border-radius: 1cm;
     text-align: center;
     animation-iteration-count:5;
+    border-style: double;
+    border-width: 0.3cm;
+    border-color:#EAC100;
+    
 }
-
-
-
-
+.com{
+    animation: bar1 5s ease;
+    width: 90% ;
+    background-color: #467500;
+    border-radius: 1cm;
+    text-align: center;
+    animation-iteration-count:5;
+    border-style: inset;
+    border-width: 0.5cm;
+    border-color: #EAC100;
+}
+.comu{
+    animation: bar1 5s ease;
+    width: 85% ;
+    background-color: #467500;
+    border-radius: 1cm;
+    text-align: center;
+    animation-iteration-count:5;
+    border-style: outset;
+    border-color: chocolate;
+    border-width: 0.5cm; 
+}
+.lead{
+    animation: bar1 5s ease;
+    width: 85% ;
+    background-color: #467500;
+    border-radius: 1cm;
+    text-align: center;
+    animation-iteration-count:5;
+    border-style: groove;
+    border-width: 0.5cm;
+    border-color:#FFD306;
+}
+.eng{
+    animation: bar1 5s ease-out;
+    width: 80% ;
+    background-color: #467500;
+    border-radius: 1cm;
+    text-align: center;
+    animation-iteration-count:5;
+    border-style: ridge;
+    border-width: 0.5cm;
+    border-color: #FF9D6F;
+}
